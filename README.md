@@ -5,6 +5,7 @@
 ### About FHIR Data
 
 Fast Healthcare Interoperability Resources (FHIR®) is a draft standard from Health Level 7 International (HL7) designed to allow the exchange of electronic health records. It is built upon previous standards such as HL7 version 2 and HL7 version 3, and uses XML and JSON for data representation. FHIR® solutions can be created using components called Resources which are built around particular concepts, such as the patient or provider, as well as diagnostics and care plans. Systems implementing FHIR® must support Resources in the XML format, but may also support Resources in the JSON format. 
+
 Reference : https://www.ibm.com/docs/ja/integration-bus/10.0?topic=SSMKHH_10.0.0/com.ibm.healthcare.pattern.FHIRTransformation.doc/pattern/overview.html
 
 ### About this repo
