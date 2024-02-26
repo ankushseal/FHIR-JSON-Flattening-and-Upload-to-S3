@@ -33,7 +33,7 @@ Make sure to update the following information in the script:
 
 ```bash
 git clone https://github.com/your-username/fhir-json-flattening.git
-cd fhir-json-flattening
+cd FHIR-JSON-Flattening-and-Upload-to-S3
 ```
 
 2. Update the `config.json` file with your AWS credentials.
